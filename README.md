@@ -1,17 +1,11 @@
- # Project Name
-
-![Logo or Banner](assets/logo.png) <!-- Optional, adjust the path -->
-
-## Overview
-A brief description of your project:
-- What does it do?
-- Who is it for?
-- Why is it valuable?
+# Overview
+This repo is for people who wants to learn webdev in a easy way.
 
 ## Features
-- 🎯 Feature 1: Brief description.
-- 🚀 Feature 2: Brief description.
-- 🔒 Feature 3: Brief description.
+- Frontend - html to nextjs
+- Backend - nodejs (express -get,post)
+- Database - (nosql,sql)
+- Git 
 
 ## Table of Contents
 1. [Getting Started](#getting-started)
